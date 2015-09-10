@@ -15,7 +15,7 @@ app.get('/', function(request, response) {
 });
 
 app.get('/cool', function(request, response) {
-  response.send('THIS IS ' + cool() + cool() + cool() + cool() + cool() + ' AWESOME!');
+  response.send('CHECKING IF THIS IS ACTUALLY' + cool() + cool() + cool() + cool() + cool() + ' AWESOME?');
 });
 
 app.listen(app.get('port'), function() {
