@@ -2,4 +2,4 @@
 
 Testing Heroku pipelines for CD 
 
-https://travis-ci.org/kamilsmuga/nodejs-heroku-pipelines.svg
+![Build status](https://travis-ci.org/kamilsmuga/nodejs-heroku-pipelines.svg)
